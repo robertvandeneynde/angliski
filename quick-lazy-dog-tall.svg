@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
    sodipodi:docname="quick-lazy-dog-tall.svg"
-   inkscape:export-filename="quick-lazy-dog.png"
+   inkscape:export-filename="quick-lazy-dog-tall.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8578564"
-     inkscape:cx="93.426668"
+     inkscape:cx="93.77658"
      inkscape:cy="22.044495"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -75,5 +75,10 @@
        x="41.283333"
        y="6.5000334"
        ry="0.0081830863" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.716665,15.560166 H -6.7536221 18.417842 59.674271 89.809402 125.916 h 31.38498 29.44077 24.6455"
+       id="path2-3-5"
+       sodipodi:nodetypes="ccccccccc" />
   </g>
 </svg>
